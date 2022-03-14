@@ -31,7 +31,7 @@
 继续猫叔的教学 开始学习移动  
 学的很浅 从物理模型到自动引擎自带碰撞  
 却真的感受到引擎的优秀  
-知识点 SerializeField 物理公式 jump
+知识点 SerializeField 物理公式 jump  
 [Sphere资料链接Part1](https://catlikecoding.com/unity/tutorials/movement/sliding-a-sphere/)  
 [Sphere资料链接Part2](https://catlikecoding.com/unity/tutorials/movement/physics/)  
 由于场景布置下不了 暂时搁置
@@ -40,7 +40,7 @@
 难点来了  
 这边代码之复杂让人有点难以阅读 咬文嚼字  
 但也是坚持看了四个章节  
-知识点 键盘输入 IEnumerator 文件读写 Prefab回收机制 material和本身属性 Factory DisallowMultipleComponent C#的getset scenes切换
+知识点 键盘输入 IEnumerator 文件读写 Prefab回收机制 material和本身属性 Factory DisallowMultipleComponent C#的getset scenes切换  
 [Sphere资料链接Part1](https://catlikecoding.com/unity/tutorials/object-management/persisting-objects/)  
 [Sphere资料链接Part2](https://catlikecoding.com/unity/tutorials/object-management/object-variety/)  
 [Sphere资料链接Part3](https://catlikecoding.com/unity/tutorials/object-management/reusing-objects/)  
