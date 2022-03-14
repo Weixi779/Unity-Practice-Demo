@@ -1,4 +1,0 @@
-repository "My project@ssl://weixi779@sh03-plasticscm.unity.cn:8787"
-  path "/"
-    br "/main"
-    co "/main"
